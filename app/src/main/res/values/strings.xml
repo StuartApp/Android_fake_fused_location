@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fake Fused Location</string>
+    <string name="title_activity_main">Fake Fused Location</string>
+    <string name="title_activity_map">Fake Fused Location</string>
+</resources>
