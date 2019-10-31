@@ -1,5 +1,17 @@
 <resources>
     <string name="app_name">Fake Fused Location</string>
-    <string name="title_activity_main">Fake Fused Location</string>
-    <string name="title_activity_map">Fake Fused Location</string>
+    <string name="app_launcher">Fake Location</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="permission_msg_location">Enable location permissions for this app</string>
+    <string name="permission_msg_mock_location">Please select this app as "mock location app" in the developer settings.</string>
+
+    <string name="act_map_title">Fake Fused Location</string>
+    <string name="act_map_start_mocking">Start mocking</string>
+    <string name="act_map_stop_mocking">Stop mocking</string>
+
+    <string name="notification_foreground_title">Mocking fused location</string>
+    <string name="notification_foreground_channel_name">Mock location service</string>
 </resources>
