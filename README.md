@@ -19,7 +19,7 @@ https://console.developers.google.com/ and create a project or select an existin
 4. Create a file called `gradle.properties` inside `~/.gradle/` dir from home folder.
 5. Open the file an add the following line: `fakeFusedLocationGoogleMapsApi=PASTE_YOUR_KEY_HERE`.
 
-### Release build
+## Release build
 
 In order make a release build you'll need to sign the app. The project doesn't include any certificate to sign
 the app, so you'll need to provide one yourself. When your certificate is ready to be used, please 
